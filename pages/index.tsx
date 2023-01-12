@@ -20,7 +20,7 @@ export default function Home() {
       Hello world!
   </h1>  
 </div>
-<div className='w-28px h-10px bg-primary-grayDark'> aaaa</div>
+<div className='w-28px h-10px bg-primary-grayDark st'> aaaa</div>
        
       </main>
     </>
